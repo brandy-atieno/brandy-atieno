@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brandy-atieno
-- 👀 I’m interested in Reactjs, Nodejs, Dart, Flutter
+- 👀 I’m interested in React, Node, Dart, Flutter
 - 🌱 I’m currently learning Nodejs, Dart, Flutter
 - 💞️ I’m looking to collaborate on Dart, Nodejs, Api's
 - 📫 How to reach me brandyodhiambo234@gmail.com
