@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandy-atieno
 - 👀 I’m interested in React, Node, Dart, Flutter
-- 🌱 I’m currently learning Nodejs, Dart, Flutter
+- 🌱 I’m currently learning Dart, Flutter(At Power Learn Project )#1MillionDevs4Africa
 - 💞️ I’m looking to collaborate on Dart,Flutter,DSA
 - 📫 How to reach me brandyodhiambo234@gmail.com
 
