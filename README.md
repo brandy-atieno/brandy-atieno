@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @brandy-atieno
 - 👀 I’m interested in React, Node, Dart, Flutter
-- 🌱 I’m currently learning Dart, Flutter(At Power Learn Project )#1MillionDevs4Africa
-- 💞️ I’m looking to collaborate on Dart,Flutter,DSA
-- 📫 How to reach me brandyodhiambo234@gmail.com
+- 🌱 I’m a graduate from Power Learn Project of the Dart-Flutter Stack#1MillionDevs4Africa
+- 💞️ I’m looking to collaborate on Dart,Flutter,React
+  
 
 <!---
 brandy-atieno/brandy-atieno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
