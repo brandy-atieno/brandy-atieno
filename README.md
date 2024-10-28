@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @brandy-atieno
 - 👀 I’m interested in React, Node, Dart, Flutter,Data Science and Machine Learning
-  - 💞️ I’m looking to collaborate on Dart,Flutter,React
+  - 💞️ I’m looking to collaborate on Dart,Flutter,React,Data analysis,AI chatbots
+  - 
   
 
 <!---
